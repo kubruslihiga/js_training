@@ -1,0 +1,30 @@
+{
+  "name": "treinamento-js",
+  "version": "1.0.0",
+  "description": "Treinamento JS para a galera do siarq",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubruslihiga/js_training.git"
+  },
+  "keywords": [
+    "treinamento",
+    "js",
+    "javascript",
+    "json",
+    "siarq"
+  ],
+  "author": "Mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubruslihiga/js_training/issues"
+  },
+  "homepage": "https://github.com/kubruslihiga/js_training#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
